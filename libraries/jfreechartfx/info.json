@@ -1,0 +1,9 @@
+{
+  "images": [
+    {
+      "path": "scatterplot-fx.png",
+      "title": "scatterplot-fx.png",
+      "description": "A scatter plot created with JFreeChart-FX.."
+    }
+  ]
+}

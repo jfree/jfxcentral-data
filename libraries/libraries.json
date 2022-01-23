@@ -350,6 +350,27 @@
     ]
   },
   {
+    "name": "JFreeChartFX",
+    "summary": "An extension that enables the use of JFreeChart in JavaFX applications.",
+    "tags": "charts",
+    "description": "JFreeChart FX is a library for creating 2D charts in JavaFX applications.",
+    "documentation": "https://github.com/jfree/jfreechart-fx/blob/master/README.md",
+    "license": "LGPL",
+    "homepage": "https://github.com/jfree/jfreechart-fx",
+    "javadocs": "https://javadoc.io/doc/org.jfree/org.jfree.chart.fx/latest/org.jfree.chart.fx/module-summary.html",
+    "repository": "https://github.com/jfree/jfreechart-fx",
+    "githubAccount": "jfree",
+    "githubProject": "jfreechart-fx",
+    "issueTracker": "https://github.com/jfree/jfreechart-fx/issues",
+    "id": "jfreechartfx",
+    "createdOn": "2022-01-23",
+    "modifiedOn": "2022-01-23",
+    "groupId": "org.jfree",
+    "artifactId": "org.jfree.chart.fx",
+    "logoAvailable": "false",
+    "ensemble": "false"
+  },
+  {
     "id": "jmetro",
     "name": "JMetro",
     "summary": "JavaFX Theme inspired by Fluent Design (not a copy)",
